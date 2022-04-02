@@ -24,6 +24,6 @@ You can click the Preview link to take a look at your changes.
   <title>Esta es mi vida</title>
 </head>
 <body>
-  <img src="https://simoncastano.com/wp-content/uploads/2021/10/simon-elipse.png">
+  <img src="https://res.cloudinary.com/torre-technologies-co/image/upload/c_scale,fl_progressive.progressive:steep,q_auto:low,w_360/v1648842673/origin/bio/cover-pictures/SimonArbey_Casta%C3%B1o_Rios1648842671655_sq7fhz.jpg">
 </body>
 </html>
