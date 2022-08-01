@@ -16,6 +16,12 @@ You can click the Preview link to take a look at your changes.
 
 </h3>
 
+<h2> My GitHub Stats </h2>
+ <h3 align="center">
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scr-simon&show_icons=true&theme=blue-green&icon_color=fff&title_color=000000&border_color=fff&bg_color=DEG,003EFF,0067FF,008DFF,00AFFF&text_color=000000)
+</h3>
 
- <img align="center" src="https://res.cloudinary.com/torre-technologies-co/image/upload/c_scale,fl_progressive.progressive:steep,q_auto:low,w_360/v1648842673/origin/bio/cover-pictures/SimonArbey_Casta%C3%B1o_Rios1648842671655_sq7fhz.jpg">
+<div align="center">
+ <img  src="https://res.cloudinary.com/torre-technologies-co/image/upload/c_scale,fl_progressive.progressive:steep,q_auto:low,w_360/v1648842673/origin/bio/cover-pictures/SimonArbey_Casta%C3%B1o_Rios1648842671655_sq7fhz.jpg">
+</div>
