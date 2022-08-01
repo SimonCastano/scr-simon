@@ -12,8 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="center">
 
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Simon Castaño Rios
-&show_icons=true&title_color=008b8b&icon_color=008b8b&text_color=008b8b&bg_color=151515)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scr-simon&show_icons=true&title_color=008b8b&icon_color=008b8b&text_color=008b8b&bg_color=151515)
 
 </h3>
 
