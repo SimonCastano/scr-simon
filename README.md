@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 <h2> My GitHub Stats </h2>
  <h3 align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scr-simon&show_icons=true&theme=blue-green&icon_color=fff&title_color=000000&border_color=fff&bg_color=DEG,003EFF,0067FF,008DFF,00AFFF&text_color=000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scr-simon&show_icons=true&theme=blue-green&icon_color=fff&title_color=ffffff&border_color=fff&bg_color=DEG,2EC7D6,4D00AB&text_color=ffffff)
 </h3>
 
 <div align="center">
