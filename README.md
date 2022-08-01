@@ -17,15 +17,5 @@ You can click the Preview link to take a look at your changes.
 </h3>
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Esta es mi vida</title>
-</head>
-<body>
-  <img src="https://res.cloudinary.com/torre-technologies-co/image/upload/c_scale,fl_progressive.progressive:steep,q_auto:low,w_360/v1648842673/origin/bio/cover-pictures/SimonArbey_Casta%C3%B1o_Rios1648842671655_sq7fhz.jpg">
-</body>
-</html>
+
+ <img align="center" src="https://res.cloudinary.com/torre-technologies-co/image/upload/c_scale,fl_progressive.progressive:steep,q_auto:low,w_360/v1648842673/origin/bio/cover-pictures/SimonArbey_Casta%C3%B1o_Rios1648842671655_sq7fhz.jpg">
