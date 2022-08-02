@@ -2,7 +2,7 @@
 
 Diseñador UI y programador fullstack 
 me gusta probar nuevas tecnologías 
-Aprendiz de todo y maestro de nada
+<br/>
 Figma, AdobeXD, Html, Css, JavaScript, PHP, MySQL, Less, Sass, ReactJS, VueJS, Ionic, React Native, Laravel, Strapi, NodeJS, Expressm, Ejs, Python, 
 
 <!---
