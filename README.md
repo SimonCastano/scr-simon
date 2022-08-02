@@ -25,3 +25,5 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
  <img  src="https://res.cloudinary.com/torre-technologies-co/image/upload/c_scale,fl_progressive.progressive:steep,q_auto:low,w_360/v1648842673/origin/bio/cover-pictures/SimonArbey_Casta%C3%B1o_Rios1648842671655_sq7fhz.jpg">
 </div>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=scr-simon&theme=tokyonight" alt="mystreak"/>
