@@ -26,4 +26,5 @@ You can click the Preview link to take a look at your changes.
  <img  src="https://res.cloudinary.com/torre-technologies-co/image/upload/c_scale,fl_progressive.progressive:steep,q_auto:low,w_360/v1648842673/origin/bio/cover-pictures/SimonArbey_Casta%C3%B1o_Rios1648842671655_sq7fhz.jpg">
 </div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=scr-simon&theme=tokyonight" alt="mystreak"/>
+![Contribution](https://activity-graph.herokuapp.com/graph?username=scr-simon&theme=react-dark&hide_border=true&area=true)
+![Snake animation](https://github.com/scr-simon/github-readme/blob/output/github-contribution-snake.svg)
