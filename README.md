@@ -3,7 +3,7 @@
 Diseñador UI y programador fullstack 
 me gusta probar nuevas tecnologías 
 <br/>
-Figma, AdobeXD, Html, Css, JavaScript, PHP, MySQL, Less, Sass, ReactJS, VueJS, Ionic, React Native, Laravel, Strapi, NodeJS, Expressm, Ejs, Python, 
+Figma, AdobeXD, Html, Css, JavaScript, PHP, MySQL, Less, Sass, ReactJS, VueJS, Ionic, React Native, Laravel, Flutter, Strapi, NodeJS, Expressm, Ejs, Python, 
 
 <!---
 scr-simon/scr-simon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
